@@ -1,6 +1,5 @@
 # Assignment 1 Part 1
 ## Anush Anand
-## 2021101086
 > ### Instructions to run the code:
 - `cd` into frontend folder
 - run `npm start`
@@ -17,7 +16,7 @@
 
 # Assignment 1 Part 2 and 3
 ## Anush Anand
-## 2021101086
+
 > ### Instructions to run the code:
 - `cd` into frontend folder
 - run `npm start`
